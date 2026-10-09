@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2026-10-08
+  Changes:
+    - Updated for Factorio 2.1.21 and later 2.1 releases.
+    - Set Aquilo's robot energy usage to 1x using the new robot-energy-usage surface property.
+    - Removed the obsolete gravity adjustment; Aquilo now retains its normal gravity.
+---------------------------------------------------------------------------------------------------
 Version: 0.0.1
 Date: 2026-01-31
   Changes:

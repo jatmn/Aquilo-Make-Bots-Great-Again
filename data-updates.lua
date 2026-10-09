@@ -1,1 +1,1 @@
-data.raw["planet"]["aquilo"].surface_properties.gravity = 3
+data.raw["planet"]["aquilo"].surface_properties["robot-energy-usage"] = 1

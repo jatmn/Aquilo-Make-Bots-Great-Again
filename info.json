@@ -1,13 +1,13 @@
 {
 	"name": "Aquilo-Make-Bots-Great-Again",
-	"version": "0.0.1",
-	"date": "2026-01-31",
+	"version": "0.0.2",
+	"date": "2026-10-08",
 	"author": "jatmn",
 	"contact": "https://discord.gg/fM6NjWabAA",
-	"factorio_version": "2.0",
+	"factorio_version": "2.1",
 	"dependencies": [
-		"base >= 2.0.73",
-		"? space-age >= 2.0.73"
+		"base >= 2.1.21",
+		"? space-age >= 2.1.21"
 	],
 	"title": "Aquilo - Make Bots Great Again",
 	"description": "Aquilo makes bots almost unusable. Make Bots Great Again!!! Sets energy multiplier back to 1x on Aquilo"
